@@ -1,6 +1,6 @@
 # Ghost vip Shop Editable 
 
-A modern, transparent, and fully-featured admin shop for FiveM, designed for QBCore/ESX servers using ox_inventory. Features a beautiful NUI dashboard, category cards, real-time server data, and Discord logging.
+A modern, transparent, and fully-featured vip shop for FiveM, designed for QBCore/ESX servers using ox_inventory. Features a beautiful NUI dashboard, category cards, real-time server data, and Discord logging.
 
 ---
 
@@ -49,7 +49,7 @@ A modern, transparent, and fully-featured admin shop for FiveM, designed for QBC
 
 ## 🕹️ Usage
 
-- Open the admin shop via your preferred command, keybind, or admin menu integration.
+- Open the vip shop via your preferred command, keybind, or admin menu integration.
 - Browse categories, select items, set quantity and payment method.
 - Click **Purchase** to buy. The server checks funds, removes money, and gives the item.
 - Purchases are logged to Discord and feedback is shown in the UI.
